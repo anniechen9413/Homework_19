@@ -4,7 +4,7 @@ package HW2;
 // int*2
 // for if
 
-public class HW2 {
+public class HW2_1 {
 	public static void main(String[]args) {
 		int sum=0;
 		for(int i=2 ;i<=1000;i++) {
@@ -13,6 +13,7 @@ public class HW2 {
 			}
 		}
 		System.out.println("1~1000的偶數和:"+sum);
+		System.out.println("123");
 	}
 	
 }

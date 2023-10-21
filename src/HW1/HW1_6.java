@@ -1,4 +1,4 @@
-package HW1_2;
+package HW1;
 
 //請寫一隻程式 利用System.out.println()
 
